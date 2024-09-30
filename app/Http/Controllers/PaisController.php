@@ -12,6 +12,7 @@ class PaisController extends Controller
             'id' => 1,
             'nome' => 'Brasil',
             'capital' => 'Brasília',
+            'imagem' => 'https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg',
             'estados' => [
                 [
                     'id' => 1,
@@ -69,6 +70,7 @@ class PaisController extends Controller
             'id' => 2,
             'nome' => 'Argentina',
             'capital' => 'Buenos Aires',
+            'imagem' => 'https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/01/bandeira-da-argentina.jpg',
             'estados' => [
                 [
                     'id' => 6,
@@ -126,6 +128,7 @@ class PaisController extends Controller
             'id' => 3,
             'nome' => 'Chile',
             'capital' => 'Santiago',
+            'imagem' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/255px-Flag_of_Chile.svg.png',
             'estados' => [
                 [
                     'id' => 11,
@@ -183,6 +186,7 @@ class PaisController extends Controller
             'id' => 4,
             'nome' => 'Colômbia',
             'capital' => 'Bogotá',
+            'imagem' => 'https://static.significados.com.br/foto/bnadeira-da-colombia-significados.jpg',
             'estados' => [
                 [
                     'id' => 16,
